@@ -18,7 +18,8 @@ di repository ini ada
 3. Software flashing NODE MCU
 
 Detail nya : https://github.com/Yukinoshita47/esp8266_deauther
-Tutorial : Coming soon
+
+Tutorial : http://blog.garudasecurityhacker.org/2017/09/hardware-hacking-tools-spacehuhn.html
 
 salam hormat : spacehuhn
 
